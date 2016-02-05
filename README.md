@@ -25,7 +25,7 @@ console.log(c);
 node app.js
 ```
 
-* Notice how console.log(c); allows you to see the value of the variable c in the terminal by allowing node to execute your code for you
+* Notice how console.log(c); allows you to log of the value of the variable in the terminal by allowing node to execute your code
 
 * Now that you get the basics of how to execute code with node and see an output in the terminal , use javascript mathematical expressions to assign values to variables using all of the operators in this documentation except for "Exponentiation (\**)" [MDN Javascript mathematical operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
 
@@ -38,7 +38,7 @@ console.log(example);
 
 * After you create a new variable and add your console.log(); statement, run the app.js file with node and see the output.
 Run your app.js with node every time you add a new variable/console.log pair.
-When you see the output, take mental note of what the mathematical operator did , and then add a comment a comment in your app.js file above the statement you are describing.
+When you see the output, take mental note of what the mathematical operator did, and then add a comment in your app.js file above the statement you are describing.
 
 Example:
 
@@ -48,6 +48,6 @@ var example = 2 + 2;
 console.log(example);
 ```
 
-* Go through that same process for all of the mathematical javascript operators (again , except for Exponentiation (\**)) Until you have a comment, variable, and a console.log(); for each of the javascript mathematical operators.
+* Go through that same process for all of the mathematical javascript operators (again, except for Exponentiation (\**)) Until you have a comment, variable, and a console.log(); for each of the javascript mathematical operators.
 
 * After you finish that , git add, git commit , git push . Then (from your fork of this repo on github.com) send a pull request.

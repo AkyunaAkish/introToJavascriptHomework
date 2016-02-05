@@ -53,3 +53,28 @@ console.log(example);
 * If you want to get more comfortable with git, after every comment, variable, and console.log(); combination you create, you can add and commit your changes with descriptive commit messages explaining what you did at every step.
 
 * After you finish that, git add, git commit, git push. Then (from your fork of this repo on github.com) send a pull request.
+
+
+# STRETCH GOAL
+
+* If you finished the previous mathematical operators and still want more, do the same process as before using these mathematical javascript methods:
+
+ * [Math.round](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round)
+
+ * [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+
+ * [Math.min](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min)
+
+ * [Math.max](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
+
+ * [Math.floor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
+
+ * [Math.ceil](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
+
+* EXAMPLE:
+
+```
+//Math.pow(a,b) in javascript returns a to the power of b (in this case 2 to the power of 2)
+var a = Math.pow(2, 2);
+console.log(a);
+```

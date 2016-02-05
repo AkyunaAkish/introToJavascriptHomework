@@ -50,4 +50,6 @@ console.log(example);
 
 * Go through that same process for all of the mathematical javascript operators (again, except for Exponentiation (\**)) Until you have a comment, variable, and a console.log(); for each of the javascript mathematical operators.
 
+* If you want to get more comfortable with git, after every comment, variable, and console.log(); combination you create, you can add and commit your changes with descriptive commit messages explaining what you did at every step.
+
 * After you finish that, git add, git commit, git push. Then (from your fork of this repo on github.com) send a pull request.

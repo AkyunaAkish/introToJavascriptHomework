@@ -10,7 +10,7 @@
 
 * cd into your cloned directory and then create an app.js file
 
-* Before you write any code yourself , open your directory in your text editor and then copy this snippet of code and paste it into your app.js file:
+* Before you write any code yourself, open your directory in your text editor and then copy this snippet of code and paste it into your app.js file:
 
 ```
 var a = 22;
@@ -27,7 +27,7 @@ node app.js
 
 * Notice how console.log(c); allows you to log of the value of the variable in the terminal by allowing node to execute your code
 
-* Now that you get the basics of how to execute code with node and see an output in the terminal , use javascript mathematical expressions to assign values to variables using all of the operators in this documentation except for "Exponentiation (\**)" [MDN Javascript mathematical operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
+* Now that you get the basics of how to execute code with node and see an output in the terminal, use javascript mathematical expressions to assign values to variables using all of the operators in this documentation except for "Exponentiation (\**)" [MDN Javascript mathematical operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
 
 * An example of this is :
 
@@ -50,4 +50,4 @@ console.log(example);
 
 * Go through that same process for all of the mathematical javascript operators (again, except for Exponentiation (\**)) Until you have a comment, variable, and a console.log(); for each of the javascript mathematical operators.
 
-* After you finish that , git add, git commit , git push . Then (from your fork of this repo on github.com) send a pull request.
+* After you finish that, git add, git commit, git push. Then (from your fork of this repo on github.com) send a pull request.

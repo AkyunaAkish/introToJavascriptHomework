@@ -15,3 +15,9 @@ console.console.log(d);
 var e = a / b;
 
 console.console.log(e);
+
+// "*" Multiplication is how js multiplies one numerical value by another
+
+var f = a * b;
+
+console.console.log(f);

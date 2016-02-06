@@ -27,3 +27,9 @@ console.log(f);
 var g = a % b;
 
 console.log(g);
+
+// "++" Increment is how js returns a numercal value before adding 1 ("x++") or after adding 1 ("++x")
+
+var h = a++;
+
+console.log(h, ++h);

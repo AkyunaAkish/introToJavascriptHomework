@@ -39,3 +39,9 @@ console.log(h, ++h);
 var i = a;
 
 console.log(i, --i);
+
+// "-" Unary Negation is how js negates a numerical values
+
+var j = -a;
+
+console.log(j);

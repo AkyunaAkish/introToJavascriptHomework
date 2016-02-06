@@ -51,3 +51,11 @@ console.log(j);
 var k = +a;
 
 console.log(k);
+
+// "math.round(x)" takes some numerical value and, if the fractional part of the value is less than .5 it rounds it down, if greater than .5 it rounds it up
+
+var l = math.round(22.5);
+
+console.log(l);
+
+//

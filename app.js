@@ -45,3 +45,5 @@ console.log(i, --i);
 var j = -a;
 
 console.log(j);
+
+// "+" Unary Plus is how js returns a numerical value for a it's operand if it is already... examples: for 3 and "3" returns 3; for true, false, and null returns 1,0,0 respectively

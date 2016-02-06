@@ -8,16 +8,22 @@ console.log(c);
 
 var d = a - b;
 
-console.console.log(d);
+console.log(d);
 
 // "/" Division is how js divides one numerical value by another
 
 var e = a / b;
 
-console.console.log(e);
+console.log(e);
 
 // "*" Multiplication is how js multiplies one numerical value by another
 
 var f = a * b;
 
-console.console.log(f);
+console.log(f);
+
+// "%" Modulus is how js returns the remainder of the division of two numerical values
+
+var g = a % b;
+
+console.log(g);

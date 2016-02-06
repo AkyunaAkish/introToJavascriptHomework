@@ -45,6 +45,13 @@ var big = Math.max(...arr);
 console.log(big);
 
 //Math.floor() will return the largest integer less than or equal to a given number.
+// will round it down.
 
 var i = Math.floor(76.99);
 console.log(i);
+
+//Math.ceil() will retunr the smallest integer greater than or equal to a given number.
+//will round it up.
+
+var x = Math.ceil(7.23);
+console.log(x);

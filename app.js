@@ -6,6 +6,12 @@ console.log(c);
 
  // "-" Subtraction is how js subtracts one numerical value from another
 
-var d = a - b
+var d = a - b;
 
 console.console.log(d);
+
+// "/" Division is how js divides one numerical value by another
+
+var e = a / b;
+
+console.console.log(e);

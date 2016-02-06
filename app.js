@@ -30,6 +30,12 @@ console.log(g);
 
 // "++" Increment is how js returns a numercal value before adding 1 ("x++") or after adding 1 ("++x")
 
-var h = a++;
+var h = a;
 
 console.log(h, ++h);
+
+// "--" Decrement is how js returns a numercal value before subtracting 1 ("x--") or after subtracting 1 ("--x")
+
+var i = a;
+
+console.log(i, --i);

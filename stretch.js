@@ -43,3 +43,8 @@ console.log(i);
 var arr = [1, 3, 5, 7];
 var big = Math.max(...arr);
 console.log(big);
+
+//Math.floor() will return the largest integer less than or equal to a given number.
+
+var i = Math.floor(76.99);
+console.log(i);

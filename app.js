@@ -13,4 +13,8 @@ console.log(subtraction);
 
 // The operator '/' is how javascript divides two values
 var division = 1260 / 3;
-console.log(division)
+console.log(division);
+
+// The operator '*' is how javascript multiplies
+var multiplication = 32 * 94;
+console.log(multiplication);

@@ -33,3 +33,8 @@ console.log(incrEx);
 var y = 14;
 var decrEx = --y;
 console.log(decrEx);
+
+//Operator '-', when preceding a single value, negates it. (Turns it from positive to negative or vice versa.)
+var z = 5;
+var unaEx = -z;
+console.log(unaEx);

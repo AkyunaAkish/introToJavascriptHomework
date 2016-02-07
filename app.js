@@ -19,3 +19,7 @@ console.log(divisionExample);
 //The mathematical operator '*' is how javascript multiplies values
 var multiplicationExample = 10 * 10;
 console.log(multiplicationExample);
+
+//The mathematical operator '%' is how javascript finds the remainder after one value is divided by another value
+var moduloExample = 10 % 3;
+console.log(moduloExample);

@@ -81,3 +81,9 @@ console.log(o);
 var p = Math.floor(3.14);
 
 console.log(p);
+
+ // "Math.ceil" returns the smallest integer greater than or equal to a given number.
+
+ var q = Math.ceil(27.3);
+
+ console.log(q);

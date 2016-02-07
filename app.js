@@ -31,7 +31,12 @@ console.log(increment);
 var decrement = --increment;
 console.log(decrement);
 
-// The operator '-' is how javascript turns a variable to a negative number
+// The operator '-' is how javascript turns a variable to a negative number (Unary negation)
 var x = 5;
 var unaryNegation = -x;
 console.log(x, unaryNegation);
+
+// The operator '+' is how javascript converts other data types to a number equivilent
+var numberString = '420';
+var unaryPlus = +numberString;
+console.log(numberString, unaryPlus);

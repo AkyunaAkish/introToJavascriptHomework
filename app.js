@@ -30,3 +30,11 @@ var c = a * b;
 var b = 10;
 
 console.log(c);
+
+//The mathematical operator '%' is how javascript finds just the remainder between values
+
+var a = 22;
+var c = a % b;
+var b = 10;
+
+console.log(c);

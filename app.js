@@ -33,3 +33,8 @@ console.log(incrementExample);
 var x = 10;
 var decrementExample = --x;
 console.log(decrementExample);
+
+//The mathematical operator '-x' is how javascript does unary negation
+var x = 10;
+var unaryNegationExample = -x;
+console.log(unaryNegationExample);

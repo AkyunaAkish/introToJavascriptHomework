@@ -53,3 +53,13 @@ console.log(roundEx);
 //Method 'Math.random' returns a random number between 0 and 1
 var randomEx = Math.random();
 console.log(randomEx);
+
+//Method 'Math.min' returns the lowest value of the arguments
+var j = 43, k = 2;
+var minEx = Math.min(j,k);
+console.log(minEx);
+
+//Method 'Math.max' returns the highest value of the arguments
+var m = 432, n = 123;
+var maxEx = Math.max(n,m);
+console.log(maxEx); 

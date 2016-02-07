@@ -68,3 +68,10 @@ var a = 22;
 var c = a--;
 
 console.log(a,c);
+
+//The operator '-' just before a number is how javascript turns a value negative
+
+var a = 22;
+var c = -a;
+
+console.log(c);

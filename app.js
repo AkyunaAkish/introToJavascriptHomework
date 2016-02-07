@@ -64,8 +64,14 @@ var m = Math.random();
 
 console.log(m);
 
-//"Math.min()" returns the smallest of 0 or more numbers. If no arguments are supplied then the method returns infinity; if an argument(s) is provided that is not a number then the method returns 'NaN'
+//"Math.min()" returns the smallest of 0 or more numbers. If no arguments are supplied then the method returns infinity; if at least one of the arguments provided cannot be converted to a number then the method returns 'NaN'
 
 var n = Math.min(3, 4, 9, 6, 2);
 
 console.log(n);
+
+//"Math.max" returns the largest of 0 or more numbers. If no arguments are supplied then the method returns infinity; if at least one of the arguments provided cannot be converted to a number then the method returns 'NaN'
+
+var o = Math.max(3, 4, 9, 6, 2);
+
+console.log(o);

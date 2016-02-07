@@ -52,4 +52,15 @@ function getRandomInt(min, max) {
 }
 console.log(getRandomInt(1,10));
 
-//
+// Math.min method is how javascript returns the smallest of a given number of numbers
+var g = 32;
+var f = 10;
+var h = -3;
+console.log(Math.min(g, f, h));
+
+// Math.max method is how javascript returns the largest of a given group of numbers or numerical array of numbers
+console.log(Math.max(1, 99));
+
+var arr = [1, 4, 9, 81, 231];
+var max = Math.max(...arr);
+console.log(max);

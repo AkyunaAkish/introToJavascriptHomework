@@ -57,3 +57,9 @@ var a = 1;
 var b = 10;
 var minExample = Math.min(a, b);
 console.log(minExample);
+
+//The Math.max() function returns the largest of 0+ numbers
+var a = 1;
+var b = 10;
+var maxExample = Math.max(a, b);
+console.log(maxExample);

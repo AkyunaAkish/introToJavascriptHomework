@@ -87,6 +87,6 @@ console.log(c);
 
 console.log(Math.round(22.53));
 
-//The operator 'Math.random' in javascript selects a number between (inclulding) '0' to (not including) '1' 
+//The operator 'Math.min' in javascript returns the smallest number 
 
-console.log(Math.random());
+console.log(Math.min(15,2,2,3,9,5,6,10));

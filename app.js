@@ -82,3 +82,7 @@ var a = "22";
 var c = +a;
 
 console.log(c);
+
+//The operator 'Math.round' in javascript rounds to the nearest whole number
+
+console.log(Math.round(22.53));

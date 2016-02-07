@@ -43,3 +43,11 @@ console.log(unaryNegationExample);
 var x = "10";
 var unaryPlusExample = +x;
 console.log(unaryPlusExample);
+
+//The Math.round() function returns the given value rounded to the closest integer
+var roundExample = Math.round(14.14);
+console.log(roundExample);
+
+//The Math.random() function returns a random number from 0 (inclusive) and 1 (exclusive)
+var randomExample = Math.random();
+console.log(randomExample);

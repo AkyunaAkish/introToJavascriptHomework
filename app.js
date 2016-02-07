@@ -51,3 +51,9 @@ console.log(roundExample);
 //The Math.random() function returns a random number from 0 (inclusive) and 1 (exclusive)
 var randomExample = Math.random();
 console.log(randomExample);
+
+//The Math.min() function returns the smallest of 0+ numbers
+var a = 1;
+var b = 10;
+var minExample = Math.min(a, b);
+console.log(minExample);

@@ -99,3 +99,7 @@ console.log(Math.max(15,2,2,3,9,5,6,10));
 
 console.log(Math.floor(15.99));
 
+//The operator 'Math.ceil' in javascript rounds down to the highest number
+
+console.log(Math.ceil(15.01));
+

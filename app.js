@@ -49,3 +49,7 @@ console.log(o);//this method finds the largest value among the arguments passed 
 //example 11, 'Math.floor()'
 var p = Math.floor(702.689432156);
 console.log(p);//this method produces the value rounded down to the nearest single digit
+
+//example 12, 'Math.ceil()'
+var q = Math.ceil(702.689432156);
+console.log(q);//this method produces the value rounded up to the nearest single digit

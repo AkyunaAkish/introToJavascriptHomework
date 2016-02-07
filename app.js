@@ -86,3 +86,7 @@ console.log(c);
 //The operator 'Math.round' in javascript rounds to the nearest whole number
 
 console.log(Math.round(22.53));
+
+//The operator 'Math.random' in javascript selects a number between (inclulding) '0' to (not including) '1' 
+
+console.log(Math.random());

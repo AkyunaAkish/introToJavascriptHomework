@@ -22,3 +22,8 @@ console.log(f);//this gives the remainder of the division of these two numbers
 var g = 8;
 var h = g++;
 console.log(g);//this increments the value by exactly 1
+
+//example 6, '--'
+var i = 1000;
+var j = --i;
+console.log(j);//this decrements the value by exactly 1

@@ -19,3 +19,7 @@ console.log(divEx);
 // Operator '*' multiplies two values together
 var multEx = 4*5;
 console.log(multEx);
+
+// Operator '%' returns the remainder that... remains when the first value is divided by the second
+var modEx = 33%6;
+console.log(modEx);

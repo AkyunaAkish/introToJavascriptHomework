@@ -11,4 +11,6 @@ console.log(addition);
 var subtraction = 99 - 39;
 console.log(subtraction);
 
-// 
+// The operator '/' is how javascript divides two values
+var division = 1260 / 3;
+console.log(division)

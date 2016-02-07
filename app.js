@@ -90,3 +90,8 @@ console.log(Math.round(22.53));
 //The operator 'Math.min' in javascript returns the smallest number 
 
 console.log(Math.min(15,2,2,3,9,5,6,10));
+
+//The operator 'Math.max' in javascript returns the largest number
+
+console.log(Math.max(15,2,2,3,9,5,6,10));
+

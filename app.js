@@ -27,3 +27,7 @@ console.log(g);//this increments the value by exactly 1
 var i = 1000;
 var j = --i;
 console.log(j);//this decrements the value by exactly 1
+
+//example 7, 'Math.round'
+var k = Math.round(9999.5678);
+console.log(k);//this rounds the number passed into it as an argument

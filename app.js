@@ -30,3 +30,8 @@ console.log(increment);
 // The operator '--' is how javascript decrements a value by 1
 var decrement = --increment;
 console.log(decrement);
+
+// The operator '-' is how javascript turns a variable to a negative number
+var x = 5;
+var unaryNegation = -x;
+console.log(x, unaryNegation);

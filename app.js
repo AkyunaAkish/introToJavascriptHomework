@@ -23,3 +23,8 @@ console.log(multEx);
 // Operator '%' returns the remainder that... remains when the first value is divided by the second
 var modEx = 33%6;
 console.log(modEx);
+
+//Operator '++' increases the value by 1
+var x = 4;
+var incrEx = ++x;
+console.log(incrEx);

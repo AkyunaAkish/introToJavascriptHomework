@@ -46,7 +46,7 @@ console.log(unaplusEx);
 
 //STRETCH GOALS
 
-// Method 'Math.round' returns the nearest whole integer to the value of the argument
+// Method 'Math.round' returns the nearest whole integer to the value of the argument (or is it parameter?)
 var roundEx = Math.round(47.23423487239482);
 console.log(roundEx);
 
@@ -54,12 +54,22 @@ console.log(roundEx);
 var randomEx = Math.random();
 console.log(randomEx);
 
-//Method 'Math.min' returns the lowest value of the arguments
+//Method 'Math.min' returns the lowest value of the arguments (or paramters... one of those terms is correct, I'm sure)
 var j = 43, k = 2;
 var minEx = Math.min(j,k);
 console.log(minEx);
 
-//Method 'Math.max' returns the highest value of the arguments
+//Method 'Math.max' returns the highest value of the arguments/paramters
 var m = 432, n = 123;
 var maxEx = Math.max(n,m);
-console.log(maxEx); 
+console.log(maxEx);
+
+//Method 'Math.floor' returns the largest whole integer with a value less than a given number
+var p = 12.9999999999;
+var floorEx = Math.floor(p);
+console.log(floorEx);
+
+//Method 'Math.ceil' returns the smallest whole integer with a value greater than a given number
+var q = 65.0000000000001
+var ceilEx = Math.ceil(q);
+console.log(ceilEx);

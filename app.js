@@ -11,3 +11,7 @@ console.log(addEx);
 // Operator '-' subtracts the second value from the first
 var subEx = 8-5;
 console.log(subEx);
+
+// Operator '/' divides the first value by the second
+var divEx =32/16;
+console.log(divEx);

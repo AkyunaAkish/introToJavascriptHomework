@@ -40,8 +40,12 @@ console.log(l);//this produces a random number between 0 and 1
 var m = 45.2;
 var n = 45.2001;
 var o = Math.min(m, n);
-console.log(o);//this operator finds the smallest value among the arguments passed in
+console.log(o);//this method finds the smallest value among the arguments passed in
 
 //example 10, 'Math.max()'
 var o = Math.max(m, n);
-console.log(o);//this operator finds the largest value among the arguments passed in
+console.log(o);//this method finds the largest value among the arguments passed in
+
+//example 11, 'Math.floor()'
+var p = Math.floor(702.689432156);
+console.log(p);//this method produces the value rounded down to the nearest single digit

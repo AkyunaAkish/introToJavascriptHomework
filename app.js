@@ -67,3 +67,7 @@ console.log(maxExample);
 //The Math.floor() function returns the largest integer that is <= a given number
 var floorExample = Math.floor(14.60);
 console.log(floorExample);
+
+//The Math.ceil() function returns the smallest integer that is >= a given number
+var ceilExample = Math.ceil(14.60);
+console.log(ceilExample);

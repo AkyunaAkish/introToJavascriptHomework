@@ -38,3 +38,8 @@ console.log(decrEx);
 var z = 5;
 var unaEx = -z;
 console.log(unaEx);
+
+//Operator '+' when preceding a string or boolean, attempts to convert the value to a number
+var string ="45";
+var unaplusEx = +string;
+console.log(unaplusEx);

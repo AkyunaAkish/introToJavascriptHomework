@@ -15,3 +15,7 @@ console.log(subEx);
 // Operator '/' divides the first value by the second
 var divEx =32/16;
 console.log(divEx);
+
+// Operator '*' multiplies two values together
+var multEx = 4*5;
+console.log(multEx);

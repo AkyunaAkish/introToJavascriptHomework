@@ -71,3 +71,45 @@ var a = "2";
 var b = "1";
 var unaryPlus = +a + +b;
 console.log(unaryPlus);
+
+// Math.round()
+// this function returns the value as the nearest integer.
+var a = 1.559;
+var mathround = Math.round(a);
+console.log(mathround);
+
+// Math.random()
+// this function returns a number between 0-1.
+var mathrandom = Math.random();
+console.log(mathrandom);
+
+// Math.random() variation
+// if you want to return an integer between a range, you can use function getRandomArbitrary(min, max) {return Math.random() * (max - min) + min;};
+var a = 1;
+var b = 2;
+function getRandomArbitrary(a, b) {
+  return Math.random() * (b - a) + a;
+};
+console.log (getRandomArbitrary);
+
+// Math.min()
+// this function returns the smallest number within the array.
+var mathmin = Math.min(5,7,10,1,800,70,99);
+console.log (mathmin);
+
+// Math.max()
+// this function returns the largest number within the array.
+var mathmax = Math.max(5,7,10,1,800,70,99);
+console.log (mathmax);
+
+// Math.floor()
+// this function rounds the value down into the root integer,
+// this function is similar to the unary plus operator,but it always rounds down.
+var mathfloor = Math.floor(8.9);
+console.log (mathfloor);
+
+// Math.ceil()
+// this function rounds the value up into an integer.
+// this function is similar to the unary plus operator, but it always rounds up.
+var mathceil = Math.ceil(8.2);
+console.log (mathceil);

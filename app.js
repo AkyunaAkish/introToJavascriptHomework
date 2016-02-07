@@ -26,3 +26,7 @@ console.log(remainder);
 // The operator '++' is how javascript increments a value by 1
 var increment = remainder++;
 console.log(increment);
+
+// The operator '--' is how javascript decrements a value by 1
+var decrement = --increment;
+console.log(decrement);

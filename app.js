@@ -28,3 +28,8 @@ console.log(modEx);
 var x = 4;
 var incrEx = ++x;
 console.log(incrEx);
+
+//Operator '--' decreases the value by 1
+var y = 14;
+var decrEx = --y;
+console.log(decrEx);

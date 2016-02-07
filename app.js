@@ -63,3 +63,7 @@ var a = 1;
 var b = 10;
 var maxExample = Math.max(a, b);
 console.log(maxExample);
+
+//The Math.floor() function returns the largest integer that is <= a given number
+var floorExample = Math.floor(14.60);
+console.log(floorExample);

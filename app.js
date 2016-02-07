@@ -75,3 +75,9 @@ console.log(n);
 var o = Math.max(3, 4, 9, 6, 2);
 
 console.log(o);
+
+//"Math.floor" returns the largest integer that is less than or equal to a given number
+
+var p = Math.floor(3.14);
+
+console.log(p);

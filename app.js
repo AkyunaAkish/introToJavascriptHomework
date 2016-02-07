@@ -18,3 +18,7 @@ console.log(division);
 // The operator '*' is how javascript multiplies
 var multiplication = 32 * 94;
 console.log(multiplication);
+
+// The '%' operator is how javascript gives you the remainder of two values ie 9 % 2 = 1 (9/2 is equal to 4 with remainder of 1)
+var remainder = 11 % 3;
+console.log(remainder);

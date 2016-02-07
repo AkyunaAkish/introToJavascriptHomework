@@ -23,3 +23,8 @@ console.log(multiplicationExample);
 //The mathematical operator '%' is how javascript finds the remainder after one value is divided by another value
 var moduloExample = 10 % 3;
 console.log(moduloExample);
+
+//The mathematical operator '++' is how javascript increments values
+var x = 10;
+var incrementExample = ++x;
+console.log(incrementExample);

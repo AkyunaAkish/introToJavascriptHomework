@@ -17,3 +17,8 @@ console.log(e); //this executes division
 //example 4, '%'
 var f = 46%5;
 console.log(f);//this gives the remainder of the division of these two numbers
+
+//example 5, '++'
+var g = 8;
+var h = g++;
+console.log(g);//this increments the value by exactly 1

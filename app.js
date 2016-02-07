@@ -49,3 +49,7 @@ console.log(unaplusEx);
 // Method 'Math.round' returns the nearest whole integer to the value of the argument
 var roundEx = Math.round(47.23423487239482);
 console.log(roundEx);
+
+//Method 'Math.random' returns a random number between 0 and 1
+var randomEx = Math.random();
+console.log(randomEx);

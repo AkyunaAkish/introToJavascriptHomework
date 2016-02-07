@@ -64,3 +64,7 @@ console.log(Math.max(1, 99));
 var arr = [1, 4, 9, 81, 231];
 var max = Math.max(...arr);
 console.log(max);
+
+// Math.floor method is how javascript returns the next largest integer that is less than or equal to a given number ie Math.floor 32.9 = 32, Math.floor -33.3 = -34 etc
+console.log(Math.floor(32.9));
+console.log(Math.floor(-33.4));

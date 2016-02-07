@@ -43,3 +43,9 @@ console.log(unaEx);
 var string ="45";
 var unaplusEx = +string;
 console.log(unaplusEx);
+
+//STRETCH GOALS
+
+// Method 'Math.round' returns the nearest whole integer to the value of the argument
+var roundEx = Math.round(47.23423487239482);
+console.log(roundEx);

@@ -54,8 +54,18 @@ console.log(k);
 
 // "math.round(x)" takes some numerical value and, if the fractional part of the value is less than .5 it rounds it down, if greater than .5 it rounds it up
 
-var l = math.round(22.5);
+var l = Math.round(22.5);
 
 console.log(l);
 
-//
+//"Math.random()" returns a random number between 0 and 1 (floating point), or within a range when min and max parameters are defined
+
+var m = Math.random();
+
+console.log(m);
+
+//"Math.min()" returns the smallest of 0 or more numbers. If no arguments are supplied then the method returns infinity; if an argument(s) is provided that is not a number then the method returns 'NaN'
+
+var n = Math.min(3, 4, 9, 6, 2);
+
+console.log(n);

@@ -28,3 +28,8 @@ console.log(moduloExample);
 var x = 10;
 var incrementExample = ++x;
 console.log(incrementExample);
+
+//The mathematical operator '--' is how javascript decrements values
+var x = 10;
+var decrementExample = --x;
+console.log(decrementExample);

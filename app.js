@@ -40,7 +40,7 @@ var b = 10;
 console.log(c);
 
 //The mathematical operator '++' is how javascript one is added to a value
-//'++' before the identifier '1' is added to the original identifier while and value is returned 
+//'++' before the identifier '1' is added to the original identifier while and that value is returned 
 
 var a = 22;
 var c = ++a;
@@ -51,5 +51,20 @@ console.log(a,c);
 
 var a = 22;
 var c = a++;
+
+console.log(a,c);
+
+//The mathematical operator '--' is how javascript one is added to a value
+//'--' before the identifier '1' is subtracted to the original identifier while and that value is returned
+
+var a = 22;
+var c = --a;
+
+console.log(a,c);
+
+//'--' after the indentifier '1' is subtracted to the original identifier, however, the original value is returned
+
+var a = 22;
+var c = a--;
 
 console.log(a,c);

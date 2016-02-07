@@ -31,3 +31,13 @@ console.log(j);//this decrements the value by exactly 1
 //example 7, 'Math.round'
 var k = Math.round(9999.5678);
 console.log(k);//this rounds the number passed into it as an argument
+
+//example 8, 'Math.random()'
+var l = Math.random();
+console.log(l);//this produces a random number between 0 and 1
+
+//example 9, 'Math.min()'
+var m = 45.2;
+var n = 45.2001;
+var o = Math.min(m, n);
+console.log(o);//this operator finds the smallest value among the arguments passed in 

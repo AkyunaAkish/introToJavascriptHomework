@@ -75,3 +75,10 @@ var a = 22;
 var c = -a;
 
 console.log(c);
+
+//The operator '+' just before a number is how javascript turns a string into a number (or at least attempts to)
+
+var a = "22";
+var c = +a;
+
+console.log(c);

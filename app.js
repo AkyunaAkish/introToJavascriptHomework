@@ -37,6 +37,19 @@ var unaryNegation = -x;
 console.log(x, unaryNegation);
 
 // The operator '+' is how javascript converts other data types to a number equivilent
-var numberString = '420';
+var numberString = '120';
 var unaryPlus = +numberString;
 console.log(numberString, unaryPlus);
+
+// Math.round method is how javascript rounds numbers
+var d = 21.02387456;
+console.log(Math.round(d));
+
+// Math.random method is how javascript can generate a random number from 0-1 or a random integer within a specified range using the function below
+console.log(Math.random());
+function getRandomInt(min, max) {
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+console.log(getRandomInt(1,10));
+
+//

@@ -95,3 +95,7 @@ console.log(Math.min(15,2,2,3,9,5,6,10));
 
 console.log(Math.max(15,2,2,3,9,5,6,10));
 
+//The operator 'Math.floor' in javascript rounds down to the lowest number
+
+console.log(Math.floor(15.99));
+

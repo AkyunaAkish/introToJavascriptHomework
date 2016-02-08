@@ -39,7 +39,7 @@ var negate = 5;
 z = -negate;
 console.log(z);
 
-// The mathematical operator '+' preceeding, (unary plus), is how javascript turns a number positive
-var plus = -4;
+// The mathematical operator '+' preceeding, (unary plus), is how javascript turns a number positive, parse integers
+var plus = "54654";
 a = +plus;
 console.log(a);

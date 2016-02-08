@@ -26,6 +26,13 @@ var division = 2 / 6;
 console.log(division);
 
 
+// The mathematical operator '%' is how javascript divides two values and returns the remainder
+var mod = 12 % 5;
+console.log(mod);
+
+
+
+
 
 // Math.round rounds to nearest integer
 var x = Math.round(12.6);

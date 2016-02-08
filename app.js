@@ -15,6 +15,23 @@ console.log(mult);
 // Dividing then outputting with node
 var divide = 483 / 13;
 console.log(divide);
+//Modulo divides the integers and returns the remainder
+var z = 13 % 3;
+console.log (z);
+//The increment operator increments (adds one to) its operand and returns a value.
+var y = 3;
+console.log(y++);
+console.log(++y);
+//The decrement operator decrements (subtracts one from) its operand and returns a value
+var x = 2;
+console.log(x--);
+console.log(--x);
+//The unary negation operator precedes its operand and negates it.
+var w = 3;
+console.log(-w);
+//The unary plus operator precedes its operand and evaluates to its operand but attempts to converts it into a number, if it isn't already.
+var v = false;
+console.log(+false);
 //Math.round rounds to the nearest integer
 var d = Math.round(23.41);
 console.log(d);
